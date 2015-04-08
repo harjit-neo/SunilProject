@@ -1,4 +1,5 @@
-﻿User-Agent: *
+﻿vaneet
+User*
 Disallow: /
 
 site map is going here.
